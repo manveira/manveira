@@ -2,10 +2,6 @@
 <h3 align="center">A DevOps Engineer from Colombia</h3>
 <img align="right"alt="Coding" width="400" src="https://www.codemotion.com/magazine/wp-content/uploads/2020/09/devops-1024x527.png"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=georgebaidoojr9&label=Profile%20views&color=0e75b6&style=flat" alt="Jesus Veira" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@georgebaidoojr" target="blank"><img src="https://img.shields.io/twitter/follow/@georgebaidoojr?logo=twitter&style=for-the-badge" alt="@georgebaidoojr" /></a> </p>
-
 - 🔭 I’m currently working on **Linux concepts/projects**
 
 - 🌱 I’m currently learning **Linux and Terraform**
