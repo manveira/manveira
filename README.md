@@ -2,21 +2,22 @@
 <h3 align="center">A DevOps Engineer from Colombia</h3>
 <img align="right"alt="Coding" width="400" src="https://www.codemotion.com/magazine/wp-content/uploads/2020/09/devops-1024x527.png"> 
 
-- 🔭 I’m currently working on **Linux concepts/projects**
 
-- 🌱 I’m currently learning **Linux and Terraform**
 
-- 👯 I’m looking to collaborate on **Anything Cloud & DevOps related**
+- 🔭 I’m currently working on **DevOps technologies**
 
-- 👨‍💻 All of my projects are available at [https://medium.com/@GeorgeBaidooJr](https://medium.com/@GeorgeBaidooJr)
+- 🌱 I’m currently learning **Observability tools**
 
-- 📝 I regularly write articles on Cloud/DevOps/Programming concepts
+- 👯 I’m looking to collaborate on **Anything DevOps related**
 
-- 💬 Ask me about **AWS and Linux**
+- 👨‍💻 All of my projects are available at: 
 
-- 📫 How to reach me **gbaidoo94@gmail.com**
 
-- ⚡ Fun fact **I like to workout, watch documentaries, and make beats as hobby**
+
+- 💬 Ask me about **DevOps**
+
+- 📫 How to reach me **manveira159@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
