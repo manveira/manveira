@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **DevOps technologies**
 
-- 🌱 I’m currently learning **Observability and CI/CD tools**
+- 🌱 I’m currently helping projects about **Observability and CI/CD tools**
 
 - 👯 I’m looking to collaborate on **Anything DevOps related**
 
