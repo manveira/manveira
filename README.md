@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jesus Veira </h1> <br />
-<h3 align="center">A DevOps Engineer from Colombia</h3> <br />
+<h3 align="center">A DevOps Engineer/SRE from Colombia</h3> <br />
 <img align="right"alt="Coding" width="400" src="https://www.codemotion.com/magazine/wp-content/uploads/2020/09/devops-1024x527.png"> 
 
 
 
-- 🔭 I’m currently working on **DevOps technologies**
+- 🔭 I’m currently working on **DevOps and SRE technologies**
 
-- 🌱 I’m currently helping projects about **Observability and CI/CD tools**
+- 🌱 I’m currently helping projects about **Cloud provider services, containerization, orchestration, CI/CD, Infra as code, observability, scripting and security tools**
 
-- 👯 I’m looking to collaborate on **Anything DevOps related**
+- 👯 I’m looking to collaborate on **SRE and DevOps initiatives focused on automation, scalability, and system reliability.**
 
 - 👨‍💻 All of my projects are available at: 
 
